@@ -11,5 +11,8 @@ The protagonist of the series, Gon is a young boy who embarks on a journey to be
 
 ###  Killua Zoldyck
 ![hxh!](kilua.avif)
+Killua is the third child of the infamous Zoldyck family of assassins. He becomes Gon's best friend and companion throughout their adventures. Despite his assassin upbringing, Killua is kind-hearted, witty, and incredibly skilled in combat.
+
+### Kurapika
 
 
