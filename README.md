@@ -18,6 +18,7 @@ Killua is the third child of the infamous Zoldyck family of assassins. He become
 Kurapika is the last surviving member of the Kurta Clan, seeking revenge against the Phantom Troupe for massacring his people and stealing their scarlet eyes. He is a skilled and intelligent fighter who becomes a close ally of Gon and Killua.
 
 ## Leorio Paradinight
-![hxh!]()
+![hxh!](lerorio.png)
+ Leorio is a medical student who aspires to become a doctor. He joins Gon, Killua, and Kurapika on their journey to become Hunters. While not as adept in combat as his companions, Leorio is passionate, loyal, and often provides comic relief.
 
 
