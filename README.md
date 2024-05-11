@@ -15,5 +15,9 @@ Killua is the third child of the infamous Zoldyck family of assassins. He become
 
 ### Kurapika
 ![hxh!](kurapika.webp)
+Kurapika is the last surviving member of the Kurta Clan, seeking revenge against the Phantom Troupe for massacring his people and stealing their scarlet eyes. He is a skilled and intelligent fighter who becomes a close ally of Gon and Killua.
+
+## Leorio Paradinight
+![hxh!]()
 
 
