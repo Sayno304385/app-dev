@@ -7,4 +7,6 @@ Hunter x Hunter is a popular Japanese manga series written and illustrated by Yo
 ## Main Characters
 ### Gon Freecss
 ![hxh!](gonfreeces.jpeg)
+The protagonist of the series, Gon is a young boy who embarks on a journey to become a Hunter like his father, Ging Freecss, in order to find him. He's cheerful, determined, and possesses great potential as a Hunter.
+
 
