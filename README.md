@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+# Anime Series: Hunter x Hunter
