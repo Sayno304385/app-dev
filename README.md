@@ -6,5 +6,5 @@ Hunter x Hunter is a popular Japanese manga series written and illustrated by Yo
 
 ## Main Characters
 ### Gon Freecss
-![hxh!](gon freeces.jpeg)
+![hxh!](gonfreeces.jpeg)
 
