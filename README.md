@@ -1,2 +1,2 @@
 # Anime Series: Hunter x Hunter
-![hxh!]()
+![hxh!](huntermain.jpe)
