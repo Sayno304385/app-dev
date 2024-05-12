@@ -44,7 +44,7 @@ This is a group of thieves composed of extremely powerful individuals, each with
 Genthru is the leader of a group of Nen users known as the Bombers. They participate in the Greed Island arc, where they aim to collect all of the game's cards by any means necessary, including violence and manipulation. Genthru, in particular, is cunning and ruthless, posing a significant challenge to Gon and his friends.
 
 ## Chimera Ants
-![hxh!](chimera.jpg)
+![hxh!](chimera.avif)
 
 Initially introduced as a species of insect-like creatures, the Chimera Ants become a major threat when their queen starts consuming humans to give birth to more powerful offspring. The Chimera Ant arc features various Chimera Ants who evolve both physically and mentally, becoming increasingly dangerous adversaries for the protagonists.
 
