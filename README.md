@@ -39,7 +39,9 @@ Hisoka is a recurring antagonist in the series, although his motivations and all
 This is a group of thieves composed of extremely powerful individuals, each with their own unique abilities. Led by Chrollo Lucilfer, the Phantom Troupe's main goal is to acquire wealth and power through theft and criminal activities. They're known for their ruthlessness and formidable combat skills, posing a significant threat to anyone who crosses their path.
 
 ## Genthru and the Bombers
-![hxh!]()
+![hxh!](BombDevilTrio.webp)
+
+Genthru is the leader of a group of Nen users known as the Bombers. They participate in the Greed Island arc, where they aim to collect all of the game's cards by any means necessary, including violence and manipulation. Genthru, in particular, is cunning and ruthless, posing a significant challenge to Gon and his friends.
 
 
 
