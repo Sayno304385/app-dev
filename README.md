@@ -64,8 +64,17 @@ In "Hunter x Hunter," Nen is a powerful energy system that characters use to per
 5. Conjuration: Conjuration enables users to create physical objects or entities out of their aura. These created objects can range from simple tools to complex weapons or creatures. Conjurers typically have a strong connection to the objects they create.
 6. Specialization: Specialization is the rarest and most unique Nen type, as it encompasses abilities that don't fit neatly into the other categories. Users of this type have highly individualized abilities that often defy categorization. Specialization abilities can vary greatly from one user to another.
 
-![hxh!]()
+![hxh!](Dark_Continent.webp)
 
+|Title Of The Episode|
+ |--------------|
+ |Hunter Exam arc|
+ |Heavens Arena arc|
+ |Phantom Troupe arc|
+ |Greed Island arc|
+ |Chimera Ant arc|
+ |Election arc|
+ 
 
 
 
