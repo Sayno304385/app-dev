@@ -50,6 +50,7 @@ Initially introduced as a species of insect-like creatures, the Chimera Ants bec
 
 
 ## Nen Types
+![hxh!]()
 
 
 
