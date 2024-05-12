@@ -2,6 +2,7 @@
 ![hxh!](hunterxhunter_header_479f42.png)
 
 ## Introduction
+
 Hunter x Hunter is a popular Japanese manga series written and illustrated by Yoshihiro Togashi. It has been serialized in Weekly Shonen Jump magazine since March 1998. The story follows a young boy named Gon Freecss who discovers that his father, whom he believed to be dead, is actually a legendary Hunter, a special individual who has proven themselves through rigorous examination to be an elite member of humanity.
 
 ## Main Protagonist
@@ -52,7 +53,9 @@ Initially introduced as a species of insect-like creatures, the Chimera Ants bec
 ## Nen Types
 ![hxh!](Nen_Types_Diagram.webp)
 
+
 In "Hunter x Hunter," Nen is a powerful energy system that characters use to perform various supernatural abilities. There are six main categories, or Nen types, each with its own strengths, weaknesses, and characteristics. Here are the six Nen types:
+
 
 1. Enhancement: Enhancement focuses on increasing the user's physical abilities and overall effectiveness in combat. Users of this type often have enhanced strength, durability, and speed. They can also reinforce objects or other people with their aura.
 2. Emission: Emission allows users to project their aura away from their body, typically in the form of ranged attacks or abilities. Users of this type excel at long-range combat and can create powerful projectiles or energy blasts.
@@ -60,6 +63,8 @@ In "Hunter x Hunter," Nen is a powerful energy system that characters use to per
 4. Transmutation: Transmutation allows users to change the properties of their aura, giving it characteristics similar to other substances or materials. Users of this type can transform their aura into various forms, such as fire, electricity, or other elements.
 5. Conjuration: Conjuration enables users to create physical objects or entities out of their aura. These created objects can range from simple tools to complex weapons or creatures. Conjurers typically have a strong connection to the objects they create.
 6. Specialization: Specialization is the rarest and most unique Nen type, as it encompasses abilities that don't fit neatly into the other categories. Users of this type have highly individualized abilities that often defy categorization. Specialization abilities can vary greatly from one user to another.
+
+
 
 
 
