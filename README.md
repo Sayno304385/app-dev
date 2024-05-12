@@ -29,7 +29,7 @@ Leorio is a medical student who aspires to become a doctor. He joins Gon, Killua
 ## Main Arotagonist
 
 ## Hisoka Morow
-![hxh!]()
+![hxh!](hisoka.avif)
 
 
 
