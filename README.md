@@ -26,10 +26,15 @@ Kurapika is the last surviving member of the Kurta Clan, seeking revenge against
 
 Leorio is a medical student who aspires to become a doctor. He joins Gon, Killua, and Kurapika on their journey to become Hunters. While not as adept in combat as his companions, Leorio is passionate, loyal, and often provides comic relief.
 
-## Main Arotagonist
+## Main Antagonist
 
 ## Hisoka Morow
 ![hxh!](hisoka.avif)
+
+Hisoka is a recurring antagonist in the series, although his motivations and allegiances are complex. He is a highly skilled and dangerous hunter who enjoys battling strong opponents. Hisoka's main goal is to fight and defeat powerful individuals, particularly those who show great potential. His ambiguous nature and unpredictable actions make him a fascinating character throughout the series.
+
+## Chrollo Lucilfer
+![hxh!]()
 
 
 
