@@ -16,7 +16,7 @@ In 2011, a new anime adaptation began airing, produced by Madhouse studio. This 
 ## Main Protagonist
 
 ## Gon Freecss
-![hxh!](gonfreeces.jpeg)
+![hxh!](GON.webp)
 
 The protagonist of the series, Gon is a young boy who embarks on a journey to become a Hunter like his father, Ging Freecss, in order to find him. He's cheerful, determined, and possesses great potential as a Hunter.
 
