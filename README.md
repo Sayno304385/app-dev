@@ -33,8 +33,13 @@ Leorio is a medical student who aspires to become a doctor. He joins Gon, Killua
 
 Hisoka is a recurring antagonist in the series, although his motivations and allegiances are complex. He is a highly skilled and dangerous hunter who enjoys battling strong opponents. Hisoka's main goal is to fight and defeat powerful individuals, particularly those who show great potential. His ambiguous nature and unpredictable actions make him a fascinating character throughout the series.
 
-## Chrollo Lucilfer
+## Genei Ryodan (Phantom Troupe)
 ![hxh!]()
+
+This is a group of thieves composed of extremely powerful individuals, each with their own unique abilities. Led by Chrollo Lucilfer, the Phantom Troupe's main goal is to acquire wealth and power through theft and criminal activities. They're known for their ruthlessness and formidable combat skills, posing a significant threat to anyone who crosses their path.
+
+
+## 
 
 
 
