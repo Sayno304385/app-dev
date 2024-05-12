@@ -49,6 +49,10 @@ Genthru is the leader of a group of Nen users known as the Bombers. They partici
 Initially introduced as a species of insect-like creatures, the Chimera Ants become a major threat when their queen starts consuming humans to give birth to more powerful offspring. The Chimera Ant arc features various Chimera Ants who evolve both physically and mentally, becoming increasingly dangerous adversaries for the protagonists.
 
 
+## Nen Types
+
+
+
 
 
 
