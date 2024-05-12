@@ -65,12 +65,12 @@ Initially introduced as a species of insect-like creatures, the Chimera Ants bec
 In "Hunter x Hunter," Nen is a powerful energy system that characters use to perform various supernatural abilities. There are six main categories, or Nen types, each with its own strengths, weaknesses, and characteristics. Here are the six Nen types:
 
 
-1. Enhancement: Enhancement focuses on increasing the user's physical abilities and overall effectiveness in combat. Users of this type often have enhanced strength, durability, and speed. They can also reinforce objects or other people with their aura.
-2. Emission: Emission allows users to project their aura away from their body, typically in the form of ranged attacks or abilities. Users of this type excel at long-range combat and can create powerful projectiles or energy blasts.
-3. Manipulation: Manipulation enables users to control and manipulate objects or creatures with their aura. Users of this type can exert their will over targets, making them move, behave, or act according to their commands.
-4. Transmutation: Transmutation allows users to change the properties of their aura, giving it characteristics similar to other substances or materials. Users of this type can transform their aura into various forms, such as fire, electricity, or other elements.
-5. Conjuration: Conjuration enables users to create physical objects or entities out of their aura. These created objects can range from simple tools to complex weapons or creatures. Conjurers typically have a strong connection to the objects they create.
-6. Specialization: Specialization is the rarest and most unique Nen type, as it encompasses abilities that don't fit neatly into the other categories. Users of this type have highly individualized abilities that often defy categorization. Specialization abilities can vary greatly from one user to another.
+1. **Enhancement:** Enhancement focuses on increasing the user's physical abilities and overall effectiveness in combat. Users of this type often have enhanced strength, durability, and speed. They can also reinforce objects or other people with their aura.
+2. **Emission:** Emission allows users to project their aura away from their body, typically in the form of ranged attacks or abilities. Users of this type excel at long-range combat and can create powerful projectiles or energy blasts.
+3. **Manipulation:** Manipulation enables users to control and manipulate objects or creatures with their aura. Users of this type can exert their will over targets, making them move, behave, or act according to their commands.
+4. **Transmutation:** Transmutation allows users to change the properties of their aura, giving it characteristics similar to other substances or materials. Users of this type can transform their aura into various forms, such as fire, electricity, or other elements.
+5. **Conjuration:** Conjuration enables users to create physical objects or entities out of their aura. These created objects can range from simple tools to complex weapons or creatures. Conjurers typically have a strong connection to the objects they create.
+6. **Specialization:** Specialization is the rarest and most unique Nen type, as it encompasses abilities that don't fit neatly into the other categories. Users of this type have highly individualized abilities that often defy categorization. Specialization abilities can vary greatly from one user to another.
 
 ![hxh!](Dark_Continent.webp)
 
