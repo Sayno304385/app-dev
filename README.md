@@ -5,20 +5,26 @@
 Hunter x Hunter is a popular Japanese manga series written and illustrated by Yoshihiro Togashi. It has been serialized in Weekly Shonen Jump magazine since March 1998. The story follows a young boy named Gon Freecss who discovers that his father, whom he believed to be dead, is actually a legendary Hunter, a special individual who has proven themselves through rigorous examination to be an elite member of humanity.
 
 ## Main Characters
-### Gon Freecss
+
+## Gon Freecss
 ![hxh!](gonfreeces.jpeg)
+
 The protagonist of the series, Gon is a young boy who embarks on a journey to become a Hunter like his father, Ging Freecss, in order to find him. He's cheerful, determined, and possesses great potential as a Hunter.
 
-###  Killua Zoldyck
+##  Killua Zoldyck
 ![hxh!](kilua.avif)
+
 Killua is the third child of the infamous Zoldyck family of assassins. He becomes Gon's best friend and companion throughout their adventures. Despite his assassin upbringing, Killua is kind-hearted, witty, and incredibly skilled in combat.
 
-### Kurapika
+## Kurapika
 ![hxh!](kurapika.webp)
+
 Kurapika is the last surviving member of the Kurta Clan, seeking revenge against the Phantom Troupe for massacring his people and stealing their scarlet eyes. He is a skilled and intelligent fighter who becomes a close ally of Gon and Killua.
 
 ## Leorio Paradinight
 ![hxh!](lerorio.png)
- Leorio is a medical student who aspires to become a doctor. He joins Gon, Killua, and Kurapika on their journey to become Hunters. While not as adept in combat as his companions, Leorio is passionate, loyal, and often provides comic relief.
+
+Leorio is a medical student who aspires to become a doctor. He joins Gon, Killua, and Kurapika on their journey to become Hunters. While not as adept in combat as his companions, Leorio is passionate, loyal, and often provides comic relief.
+
 
 
