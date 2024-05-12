@@ -3,7 +3,15 @@
 
 ## Introduction
 
-Hunter x Hunter is a popular Japanese manga series written and illustrated by Yoshihiro Togashi. It has been serialized in Weekly Shonen Jump magazine since March 1998. The story follows a young boy named Gon Freecss who discovers that his father, whom he believed to be dead, is actually a legendary Hunter, a special individual who has proven themselves through rigorous examination to be an elite member of humanity.
+Hunter x Hunter" is a popular Japanese manga series written and illustrated by Yoshihiro Togashi. The manga was first serialized in Weekly Shonen Jump magazine in 1998 and has since been collected into numerous volumes. The series has also been adapted into multiple anime series, OVAs (Original Video Animations), and movies.
+
+The story follows a young boy named Gon Freecss, who discovers that his absentee father, Ging Freecss, is a legendary "Hunter," a member of an elite group with special privileges including access to restricted areas and information. Determined to find his father, Gon decides to become a Hunter himself. Along the way, he meets various friends and foes, each with their own goals and motivations.
+
+The "Hunter x Hunter" anime has been adapted multiple times. The first anime adaptation aired from 1999 to 2001 and covered a significant portion of the manga. However, due to catching up with the manga's ongoing story, the anime concluded without a complete adaptation.
+
+In 2011, a new anime adaptation began airing, produced by Madhouse studio. This adaptation faithfully followed the manga and covered more material than the original series. It received critical acclaim for its animation quality, character development, and storytelling. However, the anime adaptation also faced challenges due to the irregular release schedule of the manga. As a result, the anime went on hiatus several times and concluded in 2014 without covering the entire manga storyline.
+
+"Hunter x Hunter" has garnered a large and dedicated fanbase worldwide, known for its intricate world-building, complex characters, and strategic battles. Despite its sporadic release schedule, both the manga and anime remain highly regarded within the anime and manga community.
 
 ## Main Protagonist
 
